@@ -1,4 +1,0 @@
-<h1>My First Cloud Deployment</h1>
-<h2>Hello, my name is YOUR NAME</h2>
-<img src="YOUR_IMAGE_URL" width="200"/>
-<p>This is my first deployed website!</p>
